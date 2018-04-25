@@ -3,4 +3,4 @@ The repository contains my submission towards this Hackathon problem by Analytic
 
 I didn't upload the dataset because of its volume. It can be found using the above-mentioned link. 
 
-I used Floydhub Resource for running my model. 
+I used Floydhub Resources for running my model. 
